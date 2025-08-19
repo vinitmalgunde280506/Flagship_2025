@@ -6,3 +6,8 @@
   - Added E-cell logo, navigation bar with links (Home, About, Speakers, Glimpses, Register).
   - Designed introductory text block with event details.
   - Integrated right-aligned event image.
+-**Date: 19th Aug 2025 (10:00pm - 12:30am)**
+  - Improved the navbar layout (full-width, fixed position).
+  - Added Page 2 (About Flagship) with side images and descriptive text + "Register Now" button.
+  - Added Page 3 (Speakers) with three speaker cards aligned using float.
+  - Styled new sections for consistent design (colors, fonts, positioning).
