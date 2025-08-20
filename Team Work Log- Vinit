@@ -11,3 +11,9 @@
   - Added Page 2 (About Flagship) with side images and descriptive text + "Register Now" button.
   - Added Page 3 (Speakers) with three speaker cards aligned using float.
   - Styled new sections for consistent design (colors, fonts, positioning).
+-**Date: 20th Aug 2025 (3:00pm - 5:30pm)**
+  - Added "Speakers" section (Page 3) with three speaker cards, including placeholders for images, names, and descriptions.
+  - Created "Aftermovie" section (Page 4) with embedded video element for showcasing Flagship’25 highlights.
+  - Built a "Register" section (Page 5) with form inputs for name, number, email, alternate email, and college name, along with a styled submit button.
+  - Expanded the footer section (Page 6) with “Contact Us,” “Quick Links,” and “Follow Us” subsections. Added mailto: links for email addresses.
+  - Ensured basic layout structure for future styling (skeleton in place).
