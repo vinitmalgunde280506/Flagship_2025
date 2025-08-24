@@ -17,3 +17,8 @@
   - Built a "Register" section (Page 5) with form inputs for name, number, email, alternate email, and college name, along with a styled submit button.
   - Expanded the footer section (Page 6) with “Contact Us,” “Quick Links,” and “Follow Us” subsections. Added mailto: links for email addresses.
   - Ensured basic layout structure for future styling (skeleton in place).
+-**Date: 22&23 Aug 2025**
+  -Improved Footer section with Quick Links, Contact Us (with mail links), and social media icons (Instagram, LinkedIn, Facebook, YouTube, Twitter).
+  -Added Visit Us section with VNIT address and copyright.
+  -Enhanced layout with consistent color scheme (black + blue + white text).
+  -Ensured proper alignment and section separation using absolute positioning and vh units.
